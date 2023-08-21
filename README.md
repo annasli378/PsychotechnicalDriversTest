@@ -10,11 +10,9 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-![Built layout](https://github.com/annasli378/
-)
+![Layout](https://github.com/annasli378/PsychotechnicalDriversTest/blob/main/img/layout.PNG)
 
-
-![Schematic generated using SimulIDE software.](https://github.com/annasli378/
+![Schematic generated using SimulIDE software.](https://github.com/annasli378/PsychotechnicalDriversTest/blob/main/img/sche_.PNG
 )
 
 
@@ -42,17 +40,19 @@
 
 After starting, the program waits for a signal from the user - pressing any button. Then the user has about 3 seconds to get ready, after which the time the display is cleared of text and the actual test begins, during which the which the LEDs light up in a specific order:
 
-![Built layout](https://github.com/annasli378/
+![Message](https://github.com/annasli378/PsychotechnicalDriversTest/blob/main/img/press_.PNG
 )
 
-![Built layout](https://github.com/annasli378/
+![Starting...](https://github.com/annasli378/PsychotechnicalDriversTest/blob/main/img/start.PNG
 )
+
+
 
 The proper reaction of the test subject to a green or red LED is to press the corresponding button as soon as possible. In the case of yellow, the user should refrain from any reaction. The reaction time is measured as the period of time between when the LED lights up and when the button is pressed.
 
 When the entire sequence is complete, the LEDs turn off and the LCD display shows the results, i.e. the minimum reaction time recorded during the test and the number of errors made by the user during the test:
 
-![Built layout](https://github.com/annasli378/
+![End](https://github.com/annasli378/PsychotechnicalDriversTest/blob/main/img/end.PNG
 )
 
 
