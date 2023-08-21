@@ -10,8 +10,8 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-![Built layout](https://github.com/annasli378/
-)
+![Layout](https://github.com/annasli378/PsychotechnicalDriversTest/main/img/layout.PNG)
+
 
 
 ![Schematic generated using SimulIDE software.](https://github.com/annasli378/
